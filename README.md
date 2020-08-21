@@ -17,5 +17,5 @@ In the *Portfolio Optimization* folder, run each optimizer file marked by their 
 ### Getting in touch
 If you would like to reach out for any reason, be it debugging or just for a chat, please do so via our email: \
 Raye Shen <rs6981@nyu.edu>\
-Sarah Guo <yg2060@nyu.edu>　　[LinkedIn](https://www.linkedin.com/in/sarah-guo/)  \
+Sarah Guo <yg2060@nyu.edu>　[LinkedIn](https://www.linkedin.com/in/sarah-guo/)  \
 Yu-Ting Chen <ytc343@nyu.edu>
