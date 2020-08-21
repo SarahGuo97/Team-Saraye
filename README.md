@@ -1,5 +1,5 @@
 # Bank of America QWIM Project Team Saraye
-# Applications of machine learning for empirical asset pricing and risk premia forecasting
+## Applications of machine learning for empirical asset pricing and risk premia forecasting
 
 This project is about implementing machine learning techniques on empirical asset pricing and risk premia forecasting. 
 
